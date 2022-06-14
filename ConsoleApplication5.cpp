@@ -50,4 +50,5 @@ int main()
     } while (r != 0);
     cout << "Resultat " << C << endl;
     cout"///////////////";
+    cout" ";
 }
