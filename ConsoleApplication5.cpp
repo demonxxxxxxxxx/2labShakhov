@@ -49,4 +49,5 @@ int main()
         else r = 0;
     } while (r != 0);
     cout << "Resultat " << C << endl;
+    cout"///////////////";
 }
